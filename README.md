@@ -63,5 +63,5 @@ The most significant negative growth occurred in 2020, with an approximate drop 
 
 The chart clearly illustrates that while Las Vegas visitor numbers have experienced ups and downs, the impact of the 2020 event and the subsequent rebound in 2021 were unprecedented in scale over this period.
 
-![Year-over-Year Growth Rate](images/YoY_Plot.png)
+![Year-over-Year Growth Rate](images/LVCVA_Bar_Chart.png)
 *Figure 2: Annual percentage change in visitor volume*
