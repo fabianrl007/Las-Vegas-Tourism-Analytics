@@ -65,3 +65,9 @@ The chart clearly illustrates that while Las Vegas visitor numbers have experien
 
 ![Year-over-Year Growth Rate](images/LVCVA_Bar_Chart.png)
 *Figure 2: Annual percentage change in visitor volume*
+
+## Code
+
+The complete data cleaning, analysis, and visualization process for this project can be found in the Jupyter Notebook file located in this repository:
+[LVCVA_Annual_Vistors.ipynb](https://colab.research.google.com/drive/12tCyIoUVm8NzBoe04MxlGM-nwA_ntZ6M?usp=sharing)
+
