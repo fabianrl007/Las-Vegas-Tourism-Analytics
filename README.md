@@ -62,3 +62,6 @@ To better understand the dynamics and volatility of visitor volume changes, the 
 The most significant negative growth occurred in 2020, with an approximate drop of -55% due to the COVID-19 pandemic. This was followed by the largest positive growth in 2021, a rebound of around +68% to +70%. Other notable years of strong positive growth included 1996 (approx. +20%), 1992 (approx. +15%), and 2022 (approx. +20%). Periods of smaller decline were evident around 2008-2009 (approx. -4% to -5% each), corresponding to the financial crisis.
 
 The chart clearly illustrates that while Las Vegas visitor numbers have experienced ups and downs, the impact of the 2020 event and the subsequent rebound in 2021 were unprecedented in scale over this period.
+
+![Year-over-Year Growth Rate](images/YoY_Plot.png)
+*Figure 2: Annual percentage change in visitor volume*
