@@ -36,7 +36,8 @@ The analysis of cleaned annual Las Vegas visitor data from 1970 to 2024 revealed
 
 The annual visitor volume showed a strong general upward trend from approximately 6.8 million in 1970, reaching a peak of about 42.5 million in 2019 before the pandemic-induced drop. Key periods of accelerated growth were observed, particularly in the 1990s. There were also noticeable dips corresponding to economic downturns, such as around 2008-2009 (dropping to about 36.4 million), and a dramatic plunge in 2020 to approximately 19 million due to the COVID-19 pandemic. The subsequent years showed a strong recovery, with visitor numbers climbing back towards approximately 40.8 million by 2023.
 
-![Las Vegas Annual Visitor Volume](images/LVCVA_Plot.png)
+![Las Vegas Visitor Trends](images/LVCVA_Plot.png)
+*Figure 1: Visitor volume crash and recovery (2019-2023)*
 
 ### Year-over-Year (YoY) Growth Rate
 
@@ -44,7 +45,8 @@ To better understand the dynamics and volatility of visitor volume changes, the 
 
 The YoY growth bar chart vividly illustrates periods of rapid change. The most significant negative growth occurred in 2020, with an approximate drop of -55% due to the COVID-19 pandemic. This was followed by the largest positive growth in 2021, a rebound of around +68% to +70%. Other notable years of strong positive growth included 1996 (approx. +20%), 1992 (approx. +15%), and 2022 (approx. +20%). Periods of smaller decline were evident around 2008-2009 (approx. -4% to -5% each), corresponding to the financial crisis. The chart clearly illustrates that while Las Vegas visitor numbers have experienced ups and downs, the impact of the 2020 event and the subsequent rebound in 2021 were unprecedented in scale over this period.
 
-![Las Vegas YoY Growth Rate](images/LVCVA_Bar_Chart.png)
+![Year Over Year Growth](images/LVCVA_Bar_Chart.png)
+*Figure 2: Year-over-Year volatility highlighting the "Shoulder Season" opportunity.*
 
 ### Discussion of Key Periods and Events
 
